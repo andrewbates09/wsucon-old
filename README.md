@@ -1,3 +1,5 @@
+[![Build Status](https://codeship.com/projects/f6e78820-47cc-0133-54bb-5e0196c5c324/status?branch=master)](https://codeship.com/projects/f6e78820-47cc-0133-54bb-5e0196c5c324/status)
+
 wsucon-old
 ==========
 
